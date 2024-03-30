@@ -1,2 +1,2 @@
 # Case-Study-1---Danny-s-Diner
-SQL Practive
+SQL Practice
